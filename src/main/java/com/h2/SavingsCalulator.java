@@ -3,7 +3,7 @@ package com.h2;
 import java.time.LocalDate;
 import java.time.YearMonth;
 
-class SavingsCalculator {
+public class SavingsCalculator {
     private float[] credits;
     private float[] debits;
 
