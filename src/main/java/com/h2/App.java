@@ -11,6 +11,7 @@ public class App
     }
 
     public static int doubleTheNumber(int number) {
+        return -1;
         return 2 * number;
     }
 
